@@ -1,5 +1,3 @@
-<div id="header" align= "center"> <img src="<iframe src="<iframe src=" <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150">
-</div>
 <div id="header" align="center">
   <img src="<iframe src="<iframe src="<img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150">
 </div>
@@ -26,10 +24,7 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 
 • 📧My email: jmungia1@student.gsu.edu  
 
-• 📜[My Resume](https://my-skipli-demo.s3.amazonaws.com/Bao+Ton-+Resume+PDF.pdf).  
 
-• ⌨️Node.js dev yourself? Hit me up in your terminal/console:<br/>
-    👉 `````` 👈
 
 ---
 
