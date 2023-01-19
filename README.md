@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width= 480
+  <img src="<iframe src="<iframe src="<img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150">
 </div>
 <div id="badges" align="center">
   <a href="https://discord.gg/" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"      alt="Discord Badge" width="69"/></a>
