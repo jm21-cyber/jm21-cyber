@@ -34,5 +34,5 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
 </div>
