@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150">
+  <img src="<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>" width="150">
 </div>
 <div id="badges" align="center">
   <a href="https://discord.gg/" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"      alt="Discord Badge" width="69"/></a>
@@ -22,12 +22,12 @@ I am a highly motivated student pursuing a Bachelor of Science degree in Compute
 
 • 💪I'm good in problem solving technique, research and development.
 
-• 📧My email: jmungia1@student.gsu.edu.  
+• 📧My email: jmungia1@student.gsu.edu  
 
 • 📜[My Resume](https://my-skipli-demo.s3.amazonaws.com/Bao+Ton-+Resume+PDF.pdf).  
 
 • ⌨️Node.js dev yourself? Hit me up in your terminal/console:<br/>
-    👉 ```npx baoton``` 👈
+    👉 `````` 👈
 
 ---
 
