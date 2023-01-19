@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>"
+  <img src="<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" 
 </div>
 <div id="badges" align="center">
   <a href="https://discord.gg/" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"      alt="Discord Badge" width="69"/></a>
